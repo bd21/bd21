@@ -1,1 +1,1 @@
-### Current project: explodingroom.io
+### Current project: [explodingroom.io](http://explodingroom.io)
